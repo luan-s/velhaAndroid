@@ -1,0 +1,124 @@
+
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.luan.jogodavelha.MainActivity" >
+
+    
+    
+    <Button
+        android:id="@+id/bt1x1"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:background="@drawable/t"
+        android:layout_x="10dp"
+        android:layout_y="125dp"
+        android:onClick="trataEvento" />
+
+    <Button
+        android:id="@+id/bt1x2"
+        android:layout_width="95dp"
+        android:background="@drawable/t"
+        android:layout_height="95dp"
+        android:layout_x="118dp"
+        android:layout_y="125dp"
+        android:onClick="trataEvento" />
+
+    <Button
+        android:id="@+id/bt1x3"
+        android:layout_width="95dp"
+        android:background="@drawable/t"
+        android:layout_height="95dp"
+        android:layout_x="225dp"
+        android:layout_y="125dp"
+        android:onClick="trataEvento" />
+
+    <Button
+        android:id="@+id/bt2x1"
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:background="@drawable/t"
+        android:layout_x="10dp"
+        android:layout_y="230dp"
+        android:onClick="trataEvento" />
+     
+      <Button
+          android:id="@+id/bt2x2"
+          android:layout_width="95dp"
+          android:background="@drawable/t"
+          android:layout_height="95dp"
+          android:layout_x="118dp"
+          android:layout_y="230dp"
+          android:onClick="trataEvento" />
+      
+       <Button
+           android:id="@+id/bt2x3"
+           android:layout_width="95dp"
+           android:layout_height="95dp"
+           android:background="@drawable/t"
+           android:layout_x="225dp"
+           android:layout_y="230dp"
+           android:onClick="trataEvento" />
+       
+        <Button
+            android:id="@+id/bt3x1"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:layout_x="10dp"
+            android:layout_y="335dp"
+            android:background="@drawable/t"
+            android:onClick="trataEvento" />
+        
+         <Button
+             android:id="@+id/bt3x2"
+             android:layout_width="95dp"
+             android:layout_height="95dp"
+             android:layout_x="118dp"
+             android:layout_y="335dp"
+             android:background="@drawable/t"
+             android:onClick="trataEvento" />
+         
+          <Button
+              android:id="@+id/bt3x3"
+              android:layout_width="95dp"
+              android:layout_height="95dp"
+              android:layout_x="225dp"
+              android:layout_y="335dp"
+              android:background="@drawable/t"
+              android:onClick="trataEvento" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="345dp"
+        android:layout_height="510dp"
+        android:layout_x="-8dp"
+        android:layout_y="20dp"
+        android:src="@drawable/tabuleiro4" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/o"
+        android:id="@+id/btIcone"
+        android:layout_x="135dp"
+        android:enabled="false"
+        android:layout_y="16dp" />
+
+    <Button
+        android:layout_width="30dp"
+        android:onClick="trataEvento"
+        android:layout_height="30dp"
+        android:background="@drawable/restart"
+        android:id="@+id/btRestart"
+        android:layout_x="296dp"
+        android:layout_y="474dp" />
+
+</AbsoluteLayout>
+<!-- From: file:/C:/Users/Luan/Desktop/Backup%20win/AndroidStudioProjects/JogoDaVelhaAndroid/app/src/main/res/layout/activity_main.xml -->

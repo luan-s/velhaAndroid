@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/fundo"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="com.luan.jogodavelha.Op">
+
+    <LinearLayout
+        android:layout_marginTop="200dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="132dp"
+            android:background="@drawable/efeitos"
+            android:layout_marginRight="50dp"
+            android:textColor="#ffffff"
+            android:text="1 Jogador"
+            android:id="@+id/btJogador1"
+            android:layout_gravity="right"
+            android:layout_weight="0.45" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:textColor="#ffffff"
+            android:background="@drawable/efeitos"
+            android:layout_height="match_parent"
+            android:text="2 Jogadores"
+            android:id="@+id/btJogador2"
+            android:layout_weight="0.48" />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Luan/Desktop/Backup%20win/AndroidStudioProjects/JogoDaVelhaAndroid/app/src/main/res/layout/activity_op.xml -->

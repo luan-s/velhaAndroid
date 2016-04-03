@@ -1,0 +1,5 @@
+C:\Users\gateway.LUANSOUZA\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\classes\release
+C:\Users\gateway.LUANSOUZA\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-667c55f5241166505b83ce0d40e64614e4ee7376.jar
+C:\Users\gateway.LUANSOUZA\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-8df8d296b7db9e8a57fcbd9b9cf41877a721be00.jar
+C:\Users\gateway.LUANSOUZA\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\release\classes-38a7bd592d502a9d0343506f6139ae927b2fcf94.jar
+C:\Users\gateway.LUANSOUZA\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\release\classes-2550c6a70e06d946908275f11f3d4f1196c745c1.jar

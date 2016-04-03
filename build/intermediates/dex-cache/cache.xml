@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-667c55f5241166505b83ce0d40e64614e4ee7376.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\debug\classes-c2015024626e44bedf33c6f43819d4820da91684.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7712e52e8ab15664409334de91278a4e627eb9fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Luan\Desktop\Backup win\AndroidStudioProjects\JogoDaVelhaAndroid\app\build\intermediates\pre-dexed\debug\classes-b1f61c79c90e321e1af49d00b5dcb2af86dc1618.jar" />
+    </item>
+
+</items>
